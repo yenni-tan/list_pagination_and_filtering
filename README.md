@@ -1,2 +1,2 @@
 # list_pagination_and_filtering
-List Pagination and Filtering
+Simple project for paginating and filtering lists.
